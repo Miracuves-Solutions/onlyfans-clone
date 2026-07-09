@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$6,699**, transparent on the [solution page](https://miracuves.com/onlyfans-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$4,899**, transparent on the [solution page](https://miracuves.com/onlyfans-clone/#pricing) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -109,7 +109,7 @@ TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 {MX_NAME}         MXFans
 {CATEGORY}        Creator Subscription & Fan Engagement Platform
 {DEMO_WEB}        mxfans.mimeld.com
-{PRICE}           $6,699
+{PRICE}           $4,899
 {SLUG}            onlyfans-clone
 {SOLUTION_URL}    https://miracuves.com/onlyfans-clone/
 {VERTICAL}        creator_economy
